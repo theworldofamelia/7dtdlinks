@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<N.S.S>
+	<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Discords</title>
+		<text>All WoA Discords</text>
+		<link>https://linktr.ee/worldofamelia</link> 
+		<imagerelpath>discord-Button.png</imagerelpath>
+	</entry>
+		<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Vote for us!</title>
+		<text>Voting website</text>
+		<link>https://7daystodie-servers.com/server/114711/vote</link> 
+		<imagerelpath>votebtn2.png</imagerelpath>
+	</entry>
+		</entry>
+		<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Cluster Rules</title>
+		<text>Rules</text>
+		<link>https://wiki.theworldofamelia.com/en/cluster/serverRules</link> 
+		<imagerelpath>rules-Button.png</imagerelpath>
+	</entry>
+		</entry>
+		<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Online Map</title>
+		<text>Stage 1 Online Map</text>
+		<link>https://s1.theworldofamelia.com</link> 
+		<imagerelpath>map-Button.png</imagerelpath>
+	</entry>
+		</entry>
+		<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Subscribe</title>
+		<text>Subscriptions</text>
+		<link>https://ko-fi.com/woa/shop</link> 
+		<imagerelpath>subscription-Button.png</imagerelpath>
+	</entry>
+		</entry>
+		<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Shop</title>
+		<text>Shop</text>
+		<link>https://ko-fi.com/woa/shop</link> 
+		<imagerelpath>donate-Button.png</imagerelpath>
+	</entry>
+</N.S.S>
