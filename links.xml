@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<N.S.S>
+<configs>
 	<entry>
 		<date>2024-05-10 12:00:00Z</date>
 		<title>Discords</title>
@@ -35,7 +35,7 @@
 		<date>2024-05-10 12:00:00Z</date>
 		<title>Subscribe</title>
 		<text>Subscriptions</text>
-		<link>https://ko-fi.com/woa/shop</link> 
+		<link>https://7dtdstore.theworldofamelia.com/category/memberships</link> 
 		<imagerelpath>subscription-Button.png</imagerelpath>
 	</entry>
 		</entry>
@@ -43,7 +43,7 @@
 		<date>2024-05-10 12:00:00Z</date>
 		<title>Shop</title>
 		<text>Shop</text>
-		<link>https://ko-fi.com/woa/shop</link> 
+		<link>https://7dtdstore.theworldofamelia.com</link> 
 		<imagerelpath>donate-Button.png</imagerelpath>
 	</entry>
-</N.S.S>
+</configs>
